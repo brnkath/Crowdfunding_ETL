@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-Project to build an ETL pipeline using Python, Pandas, and PostGresSQL
+Project to build an ETL pipeline using Python, Pandas, and PostgresSQL
 
 Contributors: Lan Nguyen, Angela Gosewehr, Jacob Anderson, and Brian Kath
 
