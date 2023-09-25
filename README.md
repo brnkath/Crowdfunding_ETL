@@ -33,7 +33,7 @@ I took the raw data and transformed the category/subcategory column into two sep
 
 Section 2: Create the Campaign DataFrame (Jacob Anderson)
 
-I made a copy of the crowdfunding dataframe and renamed some of its columns to be more clear about what information they actually provide. I also altered the data types of three of the columns so that it would be in a more usable format if we were to go forward with analyzing this dataset in the future. Then I merged the dataframe with the categroy and subcategory dataframes from Section 1, and removed any new columns that were unrelated or unessential to the campaign data. Finally, I exported the dataframe as a .csv file names campaign.csv
+I made a copy of the crowdfunding dataframe and renamed some of its columns to be more clear about what information they actually provide. I also altered the data types of three of the columns so that it would be in a more usable format if we were to go forward with analyzing this dataset in the future. Then I merged the dataframe with the categroy and subcategory dataframes from Section 1, and removed any new columns that were unrelated or unessential to the campaign data. Finally, I exported the dataframe as a .csv file named campaign.csv
 
 ---
 
